@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somjeet Srimani</h1>
-<h3 align="center">Senior Analyst at Capgemini | Dynamic Software Developer & DevOps Engineer | Expert in React, MERN Stack, Docker & CI/CD | Proven Efficiency in Deployments | 2+ Years of Innovation in Automation & Client Solutions</h3>
+<h3 align="center">Senior Analyst at Capgemini | Full Stack Developer & DevOps Engineer | Expert in React, MERN Stack, Docker & CI/CD | Proven Efficiency in Deployments | 2.5+ Years of Innovation in Automation & Client Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somjeet2000&label=Profile%20views&color=0e75b6&style=flat" alt="somjeet2000" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Splitwise Clone, Smart Commute Planner**
+- 🔭 I’m currently working on **Splitwise Clone, Smart Commute Planner, DevOps Portfolio**
 
 - 🌱 I’m currently mastering **React JS, MERN Stack, DevOps Tools - Jenkins, Docker, Kubernetes & Cloud Technologies**
 
